@@ -5,18 +5,18 @@ Reading great papers in the history of artificial intelligence and machine learn
 # Journal club papers
 - Paper: An Inductive Inference Machine <br />
   Author(s): Ray Solmonoff
-  Year: 1956
+  Year: 1956 <br />
   Date: July 14th, 2020 <br />
   Presenter: Joe Hakim <br />
-  Link:
+  Link: <br />
   Slides: <br />
   tl;dr: 
 - Paper: Generalization of Pattern Recognition in a Self-Organizing System <br />
   Authors: WA Clark, BG Farley 
-  Year: 1955
+  Year: 1955 <br />
   Date: August 11th, 2020 <br />
   Presenter: Eric Chen <br />
-  Link:
+  Link: <br />
   Slides:  <br />
   tl;dr: 
 
