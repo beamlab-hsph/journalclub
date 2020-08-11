@@ -10,7 +10,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Presenter: Joe Hakim <br />
   Link: http://raysolomonoff.com/publications/indinf56.pdf <br />
   Slides: https://docs.google.com/presentation/d/14whQ2ZuEjGtz2hRvwvHKhj6eGbzKWRABUjeFxn7RhKM/edit?usp=sharing<br />
-  tl;dr: A description of an algorithm that can perform prediction on grids of numbers and operations. Works by using prior examples and specific transformations thereof to produce predictions favoring 'utility' and 'consistency'. Some brief philosophical discussion towards making the algorithm more "AI-like" and theoretical properties. <br />
+  __tl;dr:__ A description of an algorithm that can perform prediction on grids of numbers and operations. Works by using prior examples and specific transformations thereof to produce predictions favoring 'utility' and 'consistency'. Some brief philosophical discussion towards making the algorithm more "AI-like" and theoretical properties. <br />
   Important because: Early (earliest?), truly probabilistic treatment of machine learning.
 - Paper: Generalization of Pattern Recognition in a Self-Organizing System <br />
   Link: <br />
@@ -23,7 +23,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Presenter: Eric Chen <br />
   Link: <br />
   Slides:  <br />
-  tl;dr: 
+  __tl;dr:__
 
 
 # Potential paper list
