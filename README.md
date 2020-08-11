@@ -43,3 +43,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
   Year: 1958 <br />
   Link: https://www.cs.cmu.edu/~epxing/Class/10715-14f/reading/Rosenblatt.perceptron.pdf
+- Paper: __A learning algorithm for Boltzmann machines__ <br />
+  Author: David H Ackley, Geoffrey E Hinton, Terrence J Sejnowski  <br />
+  Year: 1985 <br />
+  Link: https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog0901_7
