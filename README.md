@@ -17,10 +17,10 @@ We are reading through some of the great papers in the history of artificial int
   Year: 1955 <br />
   Date: August 11th, 2020 <br />
   Presenter: Eric Chen <br />
-  Link: <br />
-  Slides:  <br />
-  __tl;dr:__ <br />
-  __Important because:__ <br />
+  Link: https://pdfs.semanticscholar.org/616b/9f5b957de2249ed1ae433b9be1bf1d45cdef.pdf<br />
+  Slides: https://www.dropbox.com/s/6u8qzp0zmodjr71/08112020_journalclub.pptx<br />
+  __tl;dr:__ Clark and Farley present two experiments on the application of neural nets to the generalization of pattern recognition. The first experiment demonstrates that the net can be successfully trained (“organized”) on input patterns subjected to random variation, while the second experiment demonstrates that a trained net can successfully classify new input sequences into three classes based on observed behavior. The authors use many techniques that are similar to modern machine learning techniques.  <br />
+  __Important because:__ Early application of neural nets to the generalization of pattern recognition/classification; precursor to modern machine learning techniques (noise injection, data augmentation, model ensembles)<br />
 
 
 ## Potential paper list
