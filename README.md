@@ -1,8 +1,8 @@
-# Great papers in the history of artificial intelligence and machine learning
-Reading great papers in the history of artificial intelligence and machine learning
+# Great papers in the history of artificial intelligence
+We are reading through some of the great papers in the history of artificial intelligence. The reading list is intentionally broad pulling from computer science, mathematics, philosophy, lingustics, and cognitive science, and we have a preference for older papers (i.e. written before the year 2000).
 
 
-# Journal club papers
+## Journal club papers to date
 - Paper: __An Inductive Inference Machine__ <br />
   Author(s): Ray Solmonoff <br />
   Year: 1956 <br />
@@ -22,7 +22,9 @@ Reading great papers in the history of artificial intelligence and machine learn
   __tl;dr:__ <br />
 
 
-# Potential paper list
+## Potential paper list
+Papers we hope to cover eventually, listed in a semi-random order:
+
 - Paper: __Computing machinery and intelligence__ <br />
   Author: Alan Turing <br />
   Year: 1950 <br />
