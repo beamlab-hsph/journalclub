@@ -63,4 +63,8 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: Claude Shannon  <br />
   Year: 1951 <br />
   Link: http://languagelog.ldc.upenn.edu/myl/Shannon1950.pdf
+- Paper: __A theory of the learnable__ <br />
+  Author: Leslie Valiant  <br />
+  Year: 1984 <br />
+  Link: http://axon.cs.byu.edu/~dan/678/papers/Learning%20Theory/Valiant.pdf
 
