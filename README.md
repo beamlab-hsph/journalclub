@@ -20,6 +20,7 @@ We are reading through some of the great papers in the history of artificial int
   Link: <br />
   Slides:  <br />
   __tl;dr:__ <br />
+  __Important because:__ <br />
 
 
 ## Potential paper list
