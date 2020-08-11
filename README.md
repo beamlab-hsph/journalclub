@@ -67,4 +67,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: Leslie Valiant  <br />
   Year: 1984 <br />
   Link: http://axon.cs.byu.edu/~dan/678/papers/Learning%20Theory/Valiant.pdf
-
+- Paper: __Statistical modeling: The two cultures__ <br />
+  Author: Leo Breimann  <br />
+  Year: 2001 <br />
+  Link: https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
