@@ -51,10 +51,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: Corinna Cortes, Vladimir Vapnik  <br />
   Year: 1995 <br />
   Link: https://link.springer.com/content/pdf/10.1007%252FBF00994018.pdf
-- Paper: __Support-Vector Networks__ <br />
-  Author: Corinna Cortes, Vladimir Vapnik  <br />
-  Year: 1995 <br />
 - Paper: __The use of multiple measurements in taxonomic problems__ <br />
   Author: RA Fisher  <br />
   Year: 1936 <br />
-  Link: https://link.springer.com/content/pdf/10.1007%252FBF00994018.pdf
+  Link: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-1809.1936.tb02137.x
