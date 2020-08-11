@@ -30,3 +30,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: John Searle <br />
   Year: 1980 <br />
   Link: http://cogprints.org/7150/1/10.1.1.83.5248.pdf
+- Paper: Learning Representations by Back-propagating Errors
+  Author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams  <br />
+  Year: 1986 <br />
+  Link: http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
