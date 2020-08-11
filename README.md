@@ -78,4 +78,7 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Rodney Brooks  <br />
   Year: 1996 <br />
   Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.5683&rep=rep1&type=pdf
-
+- Paper: __Elephants don't play chess__ <br />
+  Author: Rodney Brooks  <br />
+  Year: 1990 <br />
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.5683&rep=rep1&type=pdf
