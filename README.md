@@ -23,10 +23,10 @@ Reading great papers in the history of artificial intelligence and machine learn
 
 # Potential paper list
 - Paper: Computing machinery and intelligence <br />
-  Author: Alan Turing
-  Year: 1950
+  Author: Alan Turing <br />
+  Year: 1950 <br />
   Link: http://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442
 - Paper: Minds, Brains, and Programs <br />
-  Author: John Searle
-  Year: 1980
+  Author: John Searle <br />
+  Year: 1980 <br />
   Link: http://cogprints.org/7150/1/10.1.1.83.5248.pdf
