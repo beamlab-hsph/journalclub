@@ -86,3 +86,11 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Arthur L. Samuel  <br />
   Year: 1959 <br />
   Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2254&rep=rep1&type=pdf
+- Paper: __Why the future doesn't need us__ <br />
+  Author: Bill Joy  <br />
+  Year: 2000 <br />
+  Link: http://science.slc.edu/~jmarshall/courses/2007/fall/singularity/readings/bill_joy_wired.pdf
+- Paper: __As we may think__ <br />
+  Author: Vannevar Bush  <br />
+  Year: 1945 <br />
+  Link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
