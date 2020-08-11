@@ -71,3 +71,8 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: Leo Breiman  <br />
   Year: 2001 <br />
   Link: https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
+- Paper: __Intelligence without representation__ <br />
+  Author: Rodney Brooks  <br />
+  Year: 1996 <br />
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.5683&rep=rep1&type=pdf
+
