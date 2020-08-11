@@ -47,3 +47,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: David H Ackley, Geoffrey E Hinton, Terrence J Sejnowski  <br />
   Year: 1985 <br />
   Link: https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog0901_7
+- Paper: __Support-Vector Networks__ <br />
+  Author: Corinna Cortes, Vladimir Vapnik  <br />
+  Year: 1995 <br />
+  Link: https://link.springer.com/content/pdf/10.1007%252FBF00994018.pdf
