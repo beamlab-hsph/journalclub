@@ -11,7 +11,7 @@ Reading great papers in the history of artificial intelligence and machine learn
   Link: http://raysolomonoff.com/publications/indinf56.pdf <br />
   Slides: https://docs.google.com/presentation/d/14whQ2ZuEjGtz2hRvwvHKhj6eGbzKWRABUjeFxn7RhKM/edit?usp=sharing<br />
   __tl;dr:__ A description of an algorithm that can perform prediction on grids of numbers and operations. Works by using prior examples and specific transformations thereof to produce predictions favoring 'utility' and 'consistency'. Some brief philosophical discussion towards making the algorithm more "AI-like" and theoretical properties. <br />
-  Important because: Early (earliest?), truly probabilistic treatment of machine learning. <br />
+  __Important because:__ Early (earliest?), truly probabilistic treatment of machine learning. <br />
 - Paper: __Generalization of Pattern Recognition in a Self-Organizing System__ <br />
   Authors: WA Clark, BG Farley  <br />
   Year: 1955 <br />
