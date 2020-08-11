@@ -55,3 +55,8 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: RA Fisher  <br />
   Year: 1936 <br />
   Link: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-1809.1936.tb02137.x
+- Paper: __An essay towards solving a problem in the doctrine of chances__ <br />
+  Author: Thomas Bayes  <br />
+  Year: 1763 <br />
+  Link: https://www.ias.ac.in/article/fulltext/reso/008/04/0080-0088
+
