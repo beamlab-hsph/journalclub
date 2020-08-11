@@ -1,5 +1,5 @@
 # Great papers in the history of artificial intelligence
-We are reading through some of the great papers in the history of artificial intelligence. The reading list is intentionally broad pulling from computer science, mathematics, philosophy, lingustics, and cognitive science, and we have a preference for older papers (i.e. written before the year 2000). The only other selection criterion is they have to be shortish papers (< 15 pages), so sorry, no books!
+We are reading through some of the great papers in the history of artificial intelligence. The reading list is intentionally broad pulling from computer science, mathematics, philosophy, lingustics, and cognitive science, and we have a preference for older papers (i.e. written before the year 2000). The only other selection criterion is they have to be shortish papers (< 15 pages), so sorry, no books! The goal is broad understanding of the research that forms the foundations for present day AI, and an a deeper understanding of the context in which each paper was written. 
 
 
 ## Journal club papers to date
