@@ -94,3 +94,7 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Vannevar Bush  <br />
   Year: 1945 <br />
   Link: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+- Paper: __Deep Blue__ <br />
+  Author: Murray Campbell, Joseph Hoane Jr., Feng-hsiung Hsu  <br />
+  Year: 2002 <br />
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.2714&rep=rep1&type=pdf
