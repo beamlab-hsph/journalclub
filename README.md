@@ -82,3 +82,7 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Rodney Brooks  <br />
   Year: 1990 <br />
   Link: https://www2.cs.sfu.ca/~vaughan/teaching/894/papers/elephants.pdf
+- Paper: __Some studies in machine learning using the game of checkers__ <br />
+  Author: Arthur L. Samuel  <br />
+  Year: 1959 <br />
+  Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2254&rep=rep1&type=pdf
