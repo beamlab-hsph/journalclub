@@ -59,4 +59,8 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: Thomas Bayes  <br />
   Year: 1763 <br />
   Link: https://www.ias.ac.in/article/fulltext/reso/008/04/0080-0088
+- Paper: __Prediction and entropy of printed English__ <br />
+  Author: Claude Shannon  <br />
+  Year: 1951 <br />
+  Link: http://languagelog.ldc.upenn.edu/myl/Shannon1950.pdf
 
