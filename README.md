@@ -39,3 +39,11 @@ Reading great papers in the history of artificial intelligence and machine learn
   Author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams  <br />
   Year: 1986 <br />
   Link: http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
+- Paper: __Maximum Likelihood from Incomplete Data Via the EM Algorithm__ <br />
+  Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
+  Year: 1977 <br />
+  Link: http://www.markirwin.net/stat221/Refs/dlr1977.pdf
+- Paper: __The perceptron: a probabilistic model for information storage and organization in the brain__ <br />
+  Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
+  Year: 1958 <br />
+  Link: https://www.cs.cmu.edu/~epxing/Class/10715-14f/reading/Rosenblatt.perceptron.pdf
