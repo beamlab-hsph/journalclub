@@ -98,6 +98,10 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Murray Campbell, Joseph Hoane Jr., Feng-hsiung Hsu  <br />
   Year: 2002 <br />
   Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.2714&rep=rep1&type=pdf
+- Paper: __The paradoxical success of fuzzy logic__ <br />
+  Author:Charles Elkan <br />
+  Year: 1995 <br />
+  Link: https://www.aaai.org/Papers/AAAI/1993/AAAI93-104.pdf
 - Paper: __Programs with common sense__ <br />
   Author: John McCarthy  <br />
   Year: 1959 <br />
