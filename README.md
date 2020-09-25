@@ -21,7 +21,15 @@ We are reading through some of the great papers in the history of artificial int
   Slides: https://www.dropbox.com/s/6u8qzp0zmodjr71/08112020_journalclub.pptx<br />
   __tl;dr:__ Clark and Farley present two experiments on the application of neural nets to the generalization of pattern recognition. The first experiment demonstrates that the net can be successfully trained (“organized”) on input patterns subjected to random variation, while the second experiment demonstrates that a trained net can successfully classify new input sequences into three classes based on observed behavior. The authors use many techniques that are similar to modern machine learning techniques.  <br />
   __Important because:__ Early application of neural nets to the generalization of pattern recognition/classification; precursor to modern machine learning techniques (noise injection, data augmentation, model ensembles)<br />
-
+- Paper: __Minds, brains, and programs__ <br />
+  Author(s): John Searle  <br />
+  Year: 1980 <br />
+  Date: September 24th, 2020 <br />
+  Presenter: Matthew Lee  <br />
+  Link: http://cogprints.org/7150/1/10.1.1.83.5248.pdf<br />
+  Slides: https://drive.google.com/file/d/1h8SESVBIBc7B8I-2fXw62hcyh1rUShQC/view?usp=sharing<br />
+  __tl;dr:__ John Searle presents his famous thought experiment, the Chinese Room Argument. The Chinese Room Argument is a position that argues against "Strong AI" or AI that truly understands. The argument is simple, a man is in a room with formal rules to correlate Chinese symbols with other Chinese symbols, when he receives an "input" script of Chinese symbols he is able to correctly map the symbols to the correct "output" answers in Chinese symbols, the man however still does not understand Chinese. This philosophical paper explores artificial intelligence and whether or not a computer is able to understand or is simply manipulating formal symbols.   <br />
+  __Important because:__ A famous thought experiment, similar to the Turing test, that explores a machine capabilities to achieve human-like intelligence. <br />
 
 ## Potential paper list
 Papers we hope to cover eventually, listed in a semi-random order:
@@ -30,10 +38,6 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Alan Turing <br />
   Year: 1950 <br />
   Link: http://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442
-- Paper: __Minds, Brains, and Programs__ <br />
-  Author: John Searle <br />
-  Year: 1980 <br />
-  Link: http://cogprints.org/7150/1/10.1.1.83.5248.pdf
 - Paper: __Learning Representations by Back-propagating Errors__ <br />
   Author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams  <br />
   Year: 1986 <br />
