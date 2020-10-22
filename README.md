@@ -30,7 +30,7 @@ We are reading through some of the great papers in the history of artificial int
   Slides: https://drive.google.com/file/d/1h8SESVBIBc7B8I-2fXw62hcyh1rUShQC/view?usp=sharing<br />
   __tl;dr:__ John Searle presents his famous thought experiment, the Chinese Room Argument. The Chinese Room Argument is a position that argues against "Strong AI" or AI that truly understands. The argument is simple, a man is in a room with formal rules to correlate Chinese symbols with other Chinese symbols, when he receives an "input" script of Chinese symbols he is able to correctly map the symbols to the correct "output" answers in Chinese symbols, the man however still does not understand Chinese. This philosophical paper explores artificial intelligence and whether or not a computer is able to understand or is simply manipulating formal symbols.   <br />
   __Important because:__ A famous thought experiment, similar to the Turing test, that explores a machine capabilities to achieve human-like intelligence. <br />
-- Paper: __MPrediction and Entropy of Printed English__ <br />
+- Paper: __Prediction and Entropy of Printed English__ <br />
   Author(s): Claude Shannon  <br />
   Year: 1950 <br />
   Date: October 22nd, 2020 <br />
