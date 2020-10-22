@@ -30,6 +30,17 @@ We are reading through some of the great papers in the history of artificial int
   Slides: https://drive.google.com/file/d/1h8SESVBIBc7B8I-2fXw62hcyh1rUShQC/view?usp=sharing<br />
   __tl;dr:__ John Searle presents his famous thought experiment, the Chinese Room Argument. The Chinese Room Argument is a position that argues against "Strong AI" or AI that truly understands. The argument is simple, a man is in a room with formal rules to correlate Chinese symbols with other Chinese symbols, when he receives an "input" script of Chinese symbols he is able to correctly map the symbols to the correct "output" answers in Chinese symbols, the man however still does not understand Chinese. This philosophical paper explores artificial intelligence and whether or not a computer is able to understand or is simply manipulating formal symbols.   <br />
   __Important because:__ A famous thought experiment, similar to the Turing test, that explores a machine capabilities to achieve human-like intelligence. <br />
+- Paper: __MPrediction and Entropy of Printed English__ <br />
+  Author(s): Claude Shannon  <br />
+  Year: 1950 <br />
+  Date: October 22nd, 2020 <br />
+  Presenter: Ben Kompa <br />
+  Link: http://languagelog.ldc.upenn.edu/myl/Shannon1950.pdf<br />
+  Slides: https://docs.google.com/presentation/d/1sidRSdmpqW1uGkmEUh5NSy_1UBaXIWYHtwlONJeDulo/edit?usp=sharing<br />
+  __tl;dr:__ Shannon provides an early analysis of the entropy of English language that holds true even today. He begins by defniing the entropy of an N-gram, which is simply N letters of English. Then, he considers two careful experiments. The first experiments consists of a participant attempting to guess the next letter of a text with only one chance at guessing the letter before moving on. The second experiment allows the participant to guess as many times as necessary until the correct letter is chosen. After deriving theoretical bounds on the N-gram entropy of English, Shannon is able to use the results of the second experiment to provide upper and lower bounds on N-gram entropy that are relevant even today.  <br />
+  __Important because:__ Early exploration of the entropy of langugae, releveant to language models today. <br />
+
+
 
 ## Potential paper list
 Papers we hope to cover eventually, listed in a semi-random order:
