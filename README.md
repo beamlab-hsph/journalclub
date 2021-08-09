@@ -39,7 +39,23 @@ We are reading through some of the great papers in the history of artificial int
   Slides: https://docs.google.com/presentation/d/1sidRSdmpqW1uGkmEUh5NSy_1UBaXIWYHtwlONJeDulo/edit?usp=sharing<br />
   __tl;dr:__ Shannon provides an early analysis of the entropy of English language that holds true even today. He begins by defniing the entropy of an N-gram, which is simply N letters of English. Then, he considers two careful experiments. The first experiments consists of a participant attempting to guess the next letter of a text with only one chance at guessing the letter before moving on. The second experiment allows the participant to guess as many times as necessary until the correct letter is chosen. After deriving theoretical bounds on the N-gram entropy of English, Shannon is able to use the results of the second experiment to provide upper and lower bounds on N-gram entropy that are relevant even today.  <br />
   __Important because:__ Early exploration of the entropy of langugae, releveant to language models today. <br />
-
+ - Paper: __Maximum Likelihood from Incomplete Data Via the EM Algorithm__ <br />
+  Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
+  Year: 1977 <br />
+  Date: June 4, 2021 <br />
+  Presenter: Rudraksh Tuwani <br />
+  Link: http://www.markirwin.net/stat221/Refs/dlr1977.pdf<br />
+  Slides: https://www.overleaf.com/read/fzysyqdprtmd<br />
+  __tl;dr:__ The paper presents EM as a general optimization framework for finding the maximum likelihood estimates in case of missing or incomplete data. The authors give a detailed derivation of the algorithm and sketch out potential applications for missing data, grouped/censored/truncated data, mixture models etc. <br />
+  __Important because:__  It is the first paper to present the EM algorithm as a general optimization procedure for a suite of problems in Statistics.  <br />
+ - Paper: __Statistical modeling: The two cultures__ <br />
+  Author: Leo Breiman  <br />
+  Year: 2001 <br />
+  Presenter: Rudraksh Tuwani <br />
+  Link: https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726 <br />
+  Slides: https://docs.google.com/presentation/d/1I4dabXf_LKnQAZfSfbz5x3nAaiPRh4548Jd2adsfb4Q/edit?usp=sharing<br />
+  __tl;dr:__ Leo Breiman contrasts the approaches and methods of the two cultures in Statistics. The data modeling culture involves constructing a generative model for the data and subsequent analysis of the constructed model. The algorithmic modeling culture instead seeks to build a black box that can accurately predict the response from the covariates. Leo Breiman primarily advocates for the algorithmic culture, arguing that it is impossible to construct accurate generative models in most real-world scenarios. Consequently, any analysis or conclusions drawn from the generative models are likely to be wrong. However, in some situations, it may be possible to construct a reliable generative model. Ultimately, the choice of the method should be dictated by the problem at hand and not by which culture the data scientist relates with the most.  <br />
+  __Important because:__  As statistics and machine learning get more intertwined, it is essential to appreciate the perspectives arising from both cultures and not get involved in culture wars. <br />
 
 
 ## Potential paper list
@@ -53,10 +69,6 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams  <br />
   Year: 1986 <br />
   Link: http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
-- Paper: __Maximum Likelihood from Incomplete Data Via the EM Algorithm__ <br />
-  Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
-  Year: 1977 <br />
-  Link: http://www.markirwin.net/stat221/Refs/dlr1977.pdf
 - Paper: __The perceptron: a probabilistic model for information storage and organization in the brain__ <br />
   Author: A. P. Dempster, N. M. Laird and D. B. Rubin  <br />
   Year: 1958 <br />
@@ -85,10 +97,6 @@ Papers we hope to cover eventually, listed in a semi-random order:
   Author: Leslie Valiant  <br />
   Year: 1984 <br />
   Link: http://axon.cs.byu.edu/~dan/678/papers/Learning%20Theory/Valiant.pdf
-- Paper: __Statistical modeling: The two cultures__ <br />
-  Author: Leo Breiman  <br />
-  Year: 2001 <br />
-  Link: https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - Paper: __Intelligence without representation__ <br />
   Author: Rodney Brooks  <br />
   Year: 1996 <br />
