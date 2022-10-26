@@ -1,3 +1,14 @@
+# Recent papers in artificial intelligence + healthcare
+##
+- Paper: __Counterfactual Phenotyping with Censored Time-to-Events__ <br />
+  Author(s): Chirag Nagpal, Mononito Goswami, Keith Dufendach, Artur Dubrawski<br />
+  Date: 9 Aug 2022<br />
+  Presented by: Joe Hakim on 27 Oct 2022<br />
+  Link: https://dl.acm.org/doi/pdf/10.1145/3534678.3539110 <br />
+  Slides: https://docs.google.com/presentation/d/1vtoNGOz9D6ehJR8WAsAZfJmiTq94qLSt9mp9o9p4FXg/edit#slide=id.p <br />
+  __tl;dr:__ Survival modeling and causal inference to create clusters of differential treatment responders. One goal is to find subgroups with most/least enhanced survival curves within a patient population exposed to some treatments.
+
+
 # Important papers in the history of artificial intelligence
 We are reading through some of the great papers in the history of artificial intelligence. The reading list is intentionally broad pulling from computer science, mathematics, philosophy, lingustics, and cognitive science, and we have a preference for older papers (i.e. written before the year 2000). The only other selection criterion is they have to be shortish papers (< 15 pages), so sorry, no books! The goal is broad understanding of the research that forms the foundations for present day AI, and an a deeper understanding of the context in which each paper was written. 
 
